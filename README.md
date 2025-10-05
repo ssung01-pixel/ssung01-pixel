@@ -10,7 +10,7 @@
    
 - 😄 Pronouns: she/her/hers
   
-- ⚡ Fun fact: In my free time, I savor diverse culinary experiences, revel in the world of music, and express my creativity through makeup.
+- ⚡ Fun fact: In my free time, I savor diverse culinary experiences, revel in the world of music, and express my creativity through cooking.
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssung01-pixel&show_icons=true&locale=en&layout=compact" alt="ssung01-pixel" /></p>
