@@ -10,8 +10,7 @@
    
 - 😄 Pronouns: she/her/hers
   
-- ⚡ Fun fact: In my free time, I savor diverse culinary experiences, revel in the world of music, and express my creativity through cooking.
-
+- ⚡ Fun fact: Strong enough to lift, curious enough to climb, soft enough to sit at a piano—and yes, I’ll stop for your dog.
 <p align='left'>
   <a href="https://www.linkedin.com/in/sarinnasung/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -22,18 +21,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<!--
- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
