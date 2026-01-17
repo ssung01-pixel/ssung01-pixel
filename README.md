@@ -5,8 +5,6 @@
 - 📫 How to reach me **sungsarinna@gmail.com**
   
 - 🌱 I’m interested in full-stack development so I'm currently react, javascript 
- 
-- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/sarinnasung/) | [My Email](sungsarinna@gmail.com)
    
 - 😄 Pronouns: she/her/hers
   
