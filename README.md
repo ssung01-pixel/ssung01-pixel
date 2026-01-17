@@ -12,15 +12,6 @@
   
 - ⚡ Fun fact: In my free time, I savor diverse culinary experiences, revel in the world of music, and express my creativity through cooking.
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssung01-pixel&show_icons=true&locale=en&layout=compact" alt="ssung01-pixel" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssung01-pixel&show_icons=true&locale=en" alt="ssung01-pixel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssung01-pixel&" alt="ssung01-pixel" /></p>
-<h2 align='left'>
-  Let's Connect 🤝
-</h2>
 <p align='left'>
   <a href="https://www.linkedin.com/in/sarinnasung/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
